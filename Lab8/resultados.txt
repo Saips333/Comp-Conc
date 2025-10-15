@@ -1,0 +1,214 @@
+=== RESULTADOS ===
+N=100, M=5, Consumidores=2
+Total de números primos encontrados: 25
+
+Desempenho das threads consumidoras:
+  Thread 1: 14 primos
+  Thread 2: 11 primos
+
+Thread VENCEDORA: Thread 1 (14 primos)
+
+=== RESULTADOS ===
+N=1000, M=10, Consumidores=4
+Total de números primos encontrados: 168
+
+Desempenho das threads consumidoras:
+  Thread 1: 41 primos
+  Thread 2: 38 primos
+  Thread 3: 40 primos
+  Thread 4: 49 primos
+
+Thread VENCEDORA: Thread 4 (49 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=8
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 181 primos
+  Thread 2: 150 primos
+  Thread 3: 165 primos
+  Thread 4: 137 primos
+  Thread 5: 146 primos
+  Thread 6: 146 primos
+  Thread 7: 169 primos
+  Thread 8: 135 primos
+
+Thread VENCEDORA: Thread 1 (181 primos)
+
+=== RESULTADOS ===
+N=100000, M=100, Consumidores=16
+Total de números primos encontrados: 9592
+
+Desempenho das threads consumidoras:
+  Thread 1: 633 primos
+  Thread 2: 695 primos
+  Thread 3: 588 primos
+  Thread 4: 555 primos
+  Thread 5: 545 primos
+  Thread 6: 550 primos
+  Thread 7: 707 primos
+  Thread 8: 622 primos
+  Thread 9: 573 primos
+  Thread 10: 563 primos
+  Thread 11: 586 primos
+  Thread 12: 573 primos
+  Thread 13: 665 primos
+  Thread 14: 612 primos
+  Thread 15: 559 primos
+  Thread 16: 566 primos
+
+Thread VENCEDORA: Thread 7 (707 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=2
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 664 primos
+  Thread 2: 565 primos
+
+Thread VENCEDORA: Thread 1 (664 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=4
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 378 primos
+  Thread 2: 289 primos
+  Thread 3: 279 primos
+  Thread 4: 283 primos
+
+Thread VENCEDORA: Thread 1 (378 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=8
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 158 primos
+  Thread 2: 153 primos
+  Thread 3: 171 primos
+  Thread 4: 131 primos
+  Thread 5: 161 primos
+  Thread 6: 161 primos
+  Thread 7: 148 primos
+  Thread 8: 146 primos
+
+Thread VENCEDORA: Thread 3 (171 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=16
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 80 primos
+  Thread 2: 84 primos
+  Thread 3: 66 primos
+  Thread 4: 78 primos
+  Thread 5: 79 primos
+  Thread 6: 75 primos
+  Thread 7: 84 primos
+  Thread 8: 79 primos
+  Thread 9: 70 primos
+  Thread 10: 72 primos
+  Thread 11: 70 primos
+  Thread 12: 89 primos
+  Thread 13: 86 primos
+  Thread 14: 81 primos
+  Thread 15: 68 primos
+  Thread 16: 68 primos
+
+Thread VENCEDORA: Thread 12 (89 primos)
+
+=== RESULTADOS ===
+N=10000, M=50, Consumidores=32
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 59 primos
+  Thread 2: 39 primos
+  Thread 3: 35 primos
+  Thread 4: 38 primos
+  Thread 5: 32 primos
+  Thread 6: 31 primos
+  Thread 7: 47 primos
+  Thread 8: 38 primos
+  Thread 9: 28 primos
+  Thread 10: 44 primos
+  Thread 11: 35 primos
+  Thread 12: 39 primos
+  Thread 13: 42 primos
+  Thread 14: 38 primos
+  Thread 15: 43 primos
+  Thread 16: 31 primos
+  Thread 17: 36 primos
+  Thread 18: 36 primos
+  Thread 19: 30 primos
+  Thread 20: 39 primos
+  Thread 21: 39 primos
+  Thread 22: 47 primos
+  Thread 23: 44 primos
+  Thread 24: 41 primos
+  Thread 25: 39 primos
+  Thread 26: 37 primos
+  Thread 27: 32 primos
+  Thread 28: 30 primos
+  Thread 29: 45 primos
+  Thread 30: 43 primos
+  Thread 31: 43 primos
+  Thread 32: 29 primos
+
+Thread VENCEDORA: Thread 1 (59 primos)
+
+=== RESULTADOS ===
+N=10000, M=100, Consumidores=4
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 354 primos
+  Thread 2: 273 primos
+  Thread 3: 285 primos
+  Thread 4: 317 primos
+
+Thread VENCEDORA: Thread 1 (354 primos)
+
+=== RESULTADOS ===
+N=1000, M=50, Consumidores=2
+Total de números primos encontrados: 168
+
+Desempenho das threads consumidoras:
+  Thread 1: 98 primos
+  Thread 2: 70 primos
+
+Thread VENCEDORA: Thread 1 (98 primos)
+
+=== RESULTADOS ===
+N=50000, M=200, Consumidores=8
+Total de números primos encontrados: 5133
+
+Desempenho das threads consumidoras:
+  Thread 1: 667 primos
+  Thread 2: 669 primos
+  Thread 3: 676 primos
+  Thread 4: 610 primos
+  Thread 5: 676 primos
+  Thread 6: 588 primos
+  Thread 7: 629 primos
+  Thread 8: 618 primos
+
+Thread VENCEDORA: Thread 3 (676 primos)
+
+=== RESULTADOS ===
+N=10000, M=100, Consumidores=4
+Total de números primos encontrados: 1229
+
+Desempenho das threads consumidoras:
+  Thread 1: 340 primos
+  Thread 2: 272 primos
+  Thread 3: 327 primos
+  Thread 4: 290 primos
+
+Thread VENCEDORA: Thread 1 (340 primos)
+
